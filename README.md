@@ -1,6 +1,7 @@
 **AI Agent**
 
 Entity Information Extractor
+
 **Overview**
 
 This project is an AI-powered entity information extraction tool built using Streamlit, a popular Python library for creating web applications. The tool utilizes Large Language Models (LLMs) from Groq and Anthropics to extract specific information about entities from search results.
